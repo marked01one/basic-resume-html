@@ -1,0 +1,17 @@
+.subtitle {
+    font-style: italic;
+}
+
+.project-header {
+    text-align: center;
+}
+
+.all {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.project-name {
+    font-size: larger;
+    
+    font-weight: bold;
+}
