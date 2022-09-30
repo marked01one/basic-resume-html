@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Comfortaa";
+    src: url(./fonts/Comfortaa-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "Amatic SC - Bold";
+    src: url(./fonts/AmaticSC-Bold.ttf);
+}
+
 .subtitle {
     font-style: italic;
 }
@@ -7,11 +17,32 @@
 }
 
 .all {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Comfortaa';
+    color: #cf5a8d;
+    background-color: #DAEAF1;
 }
 
 .project-name {
     font-size: larger;
-    
     font-weight: bold;
+}
+
+
+
+.home-title {
+    margin-left: 25px;
+}
+
+h2 {
+    font-family: "Amatic SC - Bold";
+    font-size: 48px;
+    text-align: center;
+}
+
+hr {
+    background-color: #abc9d4;
+    height: 8px;
+    border-style: none;
+    border-radius: 4px;
+    width: 300px;
 }
