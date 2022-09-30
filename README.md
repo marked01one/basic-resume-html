@@ -1,6 +1,7 @@
 # portfolio-website
-Just a basic HTML/CSS portfolio page currently in the making.
-Website link:
+Currently just a basic HTML/CSS portfolio page. More features and functionalities in progress.
+
+## Website link:
 ```
 marked01one.github.io/portfolio-website
 ```
